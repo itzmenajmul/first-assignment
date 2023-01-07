@@ -1,0 +1,164 @@
+* {
+    margin: 0px;
+}
+/* header banner */
+.header{
+    background-image: url('/images/banner/banner1.png');
+    width: 1600px;
+    height: 808px;
+}
+.banner-content{
+    padding-top: 216px;
+    padding-right: 230px;
+}
+.banner-title {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: right;
+    color: #151414;
+    padding: 10px;
+}
+.banner-description {
+    text-align: right;
+    color: #444343;
+    padding: 10px;
+}
+.btn-contact {
+    color: #FFFFFF;
+    text-align: right;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    padding: 20px 25px;
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    float: right;
+}
+/* header banner end */
+
+/* failure sectation */
+.failure{
+    display: flex;
+}
+.failure-person{
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+}
+.failure-content{
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    margin: auto;
+}
+.content-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    height: 110px;
+}
+.content-description{
+    width: 416px;
+    height: 75px;
+}
+.content-item{
+    width: 349px;
+    height: 162px;
+    left: 862px;
+    top: 1416px;
+}
+/* failure sectation end */
+/* plan sectation  */
+.plan{
+    display: flex;
+    margin: auto;
+    padding: px;
+    
+
+}
+.plan-title{
+   
+    
+   
+
+}
+.web-icon{
+  padding: 100px;
+}
+.js-icon{
+padding: 100px;
+}
+.smoke-icon{
+padding: 100px;
+}
+.ecom-icon{
+padding: 100px;
+}
+/* plan sectation end */
+
+/* future sectation */
+.footer{
+    display: flex;
+    background: #151414;
+   color: #F8F8F8;
+ 
+}
+.footer-content{
+
+}
+.title{
+    font-weight: 700;
+    font-size: 45px;
+    
+
+}
+.footer-description{
+    font-weight: 400;
+    font-size: 16px;
+    width: 485px;
+height: 78px;
+left: 230px;
+
+}
+.social-icon{
+    width: 175px;
+height: 46px;
+left: 230px;
+top: 3053.26px;
+}
+.btn-subscribe{
+    width: 160px;
+    height: 50px;
+    left: 1046px;
+    top: 2922.26px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    color: #F15B22;
+}
+.subscribe{
+    margin: auto;
+    padding: 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* future sectation end  */
